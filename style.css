@@ -1,0 +1,27 @@
+
+h1 {
+    color: #FF0000;
+}
+
+h2 {
+    color: darkred;
+    border: solid;
+    text-align: left;
+    padding: 20px;
+    margin: 5px;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    background-color: aqua;
+}
+
+.header {
+    background-color: #0000fb;
+    display: flex;
+    justify-content: space-between;
+}
+
